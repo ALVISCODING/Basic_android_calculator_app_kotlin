@@ -45,9 +45,6 @@ Set up your development environment:
 - [@ALVISCODING](https://www.github.com/ALVISCODING)
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 # Basic Android Clculator App
